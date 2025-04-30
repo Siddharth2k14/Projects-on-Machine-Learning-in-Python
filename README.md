@@ -40,13 +40,13 @@ The following models were trained and tested:
 ## Results
 Each model was evaluated and compared based on the above metrics to determine the most effective algorithm for diabetes prediction. The best-performing model offers reliable support for early diagnosis.
 1. Logistic Regression
-   ![Logistic-Regression] (Diabetes Prediction Model using Python/Output/Logistic-Regression.png)
+   ![Logistic-Regression] (https://github.com/Siddharth2k14/Projects-on-Machine-Learning-in-Python/blob/main/Diabetes%20Prediction%20Model%20using%20Python/Output/Logistic-Regression.png)
 2. Random Forest Classifier
-   ![Random-Forest-Classifier](Diabetes Prediction Model using Python/Output/Random-Forest-Classifier.png)
+   ![Random-Forest-Classifier](https://github.com/Siddharth2k14/Projects-on-Machine-Learning-in-Python/blob/main/Diabetes%20Prediction%20Model%20using%20Python/Output/Random-Forest-Classifier.png)
 3. Decision Tree Classifier
-   ![Decision-Tree-Classifier](Diabetes Prediction Model using Python/Output/Decision-Tree.png)
+   ![Decision-Tree-Classifier](https://github.com/Siddharth2k14/Projects-on-Machine-Learning-in-Python/blob/main/Diabetes%20Prediction%20Model%20using%20Python/Output/Decision-Tree.png)
 4. Support Vector Machine
-   ![Support-Vector-Machine](Diabetes Prediction Model using Python/Output/svm.png)
+   ![Support-Vector-Machine](https://github.com/Siddharth2k14/Projects-on-Machine-Learning-in-Python/blob/main/Diabetes%20Prediction%20Model%20using%20Python/Output/svm.png)
 
 
 
